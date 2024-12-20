@@ -1,0 +1,14 @@
+.css_disponi_camas_label, .css_disponi_camas_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_disponi_camas_grid_line, .css_disponi_camas_grid_line:hover {vertical-align: top;text-align: right;}
+.css_disponi_fecha_label, .css_disponi_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_disponi_fecha_grid_line, .css_disponi_fecha_grid_line:hover {vertical-align: top;text-align: center;}
+.css_entidad_nombre_ips_label, .css_entidad_nombre_ips_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_entidad_nombre_ips_grid_line, .css_entidad_nombre_ips_grid_line:hover {vertical-align: top;text-align: right;}
+.css_disponi_login_label, .css_disponi_login_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_disponi_login_grid_line, .css_disponi_login_grid_line:hover {vertical-align: top;text-align: right;}
+.css_disponi_ip_label, .css_disponi_ip_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_disponi_ip_grid_line, .css_disponi_ip_grid_line:hover {vertical-align: top;text-align: right;}
+.css_disponi_id_disponibilidad_label, .css_disponi_id_disponibilidad_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_disponi_id_disponibilidad_grid_line, .css_disponi_id_disponibilidad_grid_line:hover {vertical-align: top;text-align: right;}
+.css_disponi_id_ips_label, .css_disponi_id_ips_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_disponi_id_ips_grid_line, .css_disponi_id_ips_grid_line:hover {vertical-align: top;text-align: right;}

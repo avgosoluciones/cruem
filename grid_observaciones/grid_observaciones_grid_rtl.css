@@ -1,0 +1,12 @@
+.css_observa_label, .css_observa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observa_grid_line, .css_observa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_user_label, .css_user_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_user_grid_line, .css_user_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fecha_label, .css_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line, .css_fecha_grid_line:hover {vertical-align: top;text-align: center;}
+.css_id_observacion_label, .css_id_observacion_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_observacion_grid_line, .css_id_observacion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_ip_label, .css_ip_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ip_grid_line, .css_ip_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_procedimiento_label, .css_id_procedimiento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_procedimiento_grid_line, .css_id_procedimiento_grid_line:hover {vertical-align: top;text-align: right;}

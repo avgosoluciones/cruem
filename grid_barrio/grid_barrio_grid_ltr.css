@@ -1,0 +1,6 @@
+.css_id_barrio_label, .css_id_barrio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_barrio_grid_line, .css_id_barrio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_barrio_label, .css_barrio_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_barrio_grid_line, .css_barrio_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_sector_label, .css_id_sector_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_sector_grid_line, .css_id_sector_grid_line:hover {vertical-align: top;text-align: right;}

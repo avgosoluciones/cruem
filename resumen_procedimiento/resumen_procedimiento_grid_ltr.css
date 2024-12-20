@@ -1,0 +1,85 @@
+.css_procedimiento_id_procedimiento_label, .css_procedimiento_id_procedimiento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_procedimiento_id_procedimiento_grid_line, .css_procedimiento_id_procedimiento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_procedimiento_id_procedimiento_tot_ger, .css_procedimiento_id_procedimiento_tot_ger:hover {text-align: right;}
+.css_procedimiento_fecha_label, .css_procedimiento_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_procedimiento_fecha_grid_line, .css_procedimiento_fecha_grid_line:hover {vertical-align: top;text-align: center;}
+.css_procedimiento_consecutivo_label, .css_procedimiento_consecutivo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_consecutivo_grid_line, .css_procedimiento_consecutivo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_sc_field_0_label, .css_sc_field_0_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_sc_field_0_grid_line, .css_sc_field_0_grid_line:hover {text-align: center;}
+.css_medico_medico_label, .css_medico_medico_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medico_medico_grid_line, .css_medico_medico_grid_line:hover {vertical-align: top;text-align: left;}
+.css_ambulancia_placa_label, .css_ambulancia_placa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ambulancia_placa_grid_line, .css_ambulancia_placa_grid_line:hover {vertical-align: top;text-align: left;}
+.css_observaciones_label, .css_observaciones_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_observaciones_grid_line, .css_observaciones_grid_line:hover {text-align: center;}
+.css_procedimiento_secad_label, .css_procedimiento_secad_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_secad_grid_line, .css_procedimiento_secad_grid_line:hover {vertical-align: top;text-align: left;}
+.css_sector_sector_label, .css_sector_sector_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sector_sector_grid_line, .css_sector_sector_grid_line:hover {vertical-align: top;text-align: left;}
+.css_barrio_barrio_label, .css_barrio_barrio_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_barrio_barrio_grid_line, .css_barrio_barrio_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_direccion_servicio_label, .css_procedimiento_direccion_servicio_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_direccion_servicio_grid_line, .css_procedimiento_direccion_servicio_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_tipo_servicio_label, .css_procedimiento_tipo_servicio_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_tipo_servicio_grid_line, .css_procedimiento_tipo_servicio_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_nombre_apellido_label, .css_procedimiento_nombre_apellido_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_nombre_apellido_grid_line, .css_procedimiento_nombre_apellido_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_tipo_documento_label, .css_procedimiento_tipo_documento_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_tipo_documento_grid_line, .css_procedimiento_tipo_documento_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_documento_identidad_label, .css_procedimiento_documento_identidad_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_documento_identidad_grid_line, .css_procedimiento_documento_identidad_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_numero_contacto_label, .css_procedimiento_numero_contacto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_numero_contacto_grid_line, .css_procedimiento_numero_contacto_grid_line:hover {vertical-align: top;text-align: left;}
+.css_eps_eps_label, .css_eps_eps_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_eps_eps_grid_line, .css_eps_eps_grid_line:hover {vertical-align: top;text-align: left;}
+.css_seguridad_seguridad_social_label, .css_seguridad_seguridad_social_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_seguridad_seguridad_social_grid_line, .css_seguridad_seguridad_social_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_edad_label, .css_procedimiento_edad_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_procedimiento_edad_grid_line, .css_procedimiento_edad_grid_line:hover {vertical-align: top;text-align: right;}
+.css_procedimiento_genero_label, .css_procedimiento_genero_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_genero_grid_line, .css_procedimiento_genero_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_circunstancias_emergencia_label, .css_procedimiento_circunstancias_emergencia_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_circunstancias_emergencia_grid_line, .css_procedimiento_circunstancias_emergencia_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_hora_ingreso_llamada_label, .css_procedimiento_hora_ingreso_llamada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_procedimiento_hora_ingreso_llamada_grid_line, .css_procedimiento_hora_ingreso_llamada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_procedimiento_hora_notifica_movil_label, .css_procedimiento_hora_notifica_movil_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_procedimiento_hora_notifica_movil_grid_line, .css_procedimiento_hora_notifica_movil_grid_line:hover {vertical-align: top;text-align: center;}
+.css_procedimiento_hora_llegada_sitio_label, .css_procedimiento_hora_llegada_sitio_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_procedimiento_hora_llegada_sitio_grid_line, .css_procedimiento_hora_llegada_sitio_grid_line:hover {vertical-align: top;text-align: center;}
+.css_procedimiento_hora_llegada_ips_label, .css_procedimiento_hora_llegada_ips_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_procedimiento_hora_llegada_ips_grid_line, .css_procedimiento_hora_llegada_ips_grid_line:hover {vertical-align: top;text-align: center;}
+.css_procedimiento_hora_salida_ips_label, .css_procedimiento_hora_salida_ips_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_procedimiento_hora_salida_ips_grid_line, .css_procedimiento_hora_salida_ips_grid_line:hover {vertical-align: top;text-align: center;}
+.css_procedimiento_radicado_label, .css_procedimiento_radicado_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_radicado_grid_line, .css_procedimiento_radicado_grid_line:hover {vertical-align: top;text-align: left;}
+.css_procedimiento_login_label, .css_procedimiento_login_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_login_grid_line, .css_procedimiento_login_grid_line:hover {vertical-align: top;text-align: left;}
+.css_barrio_id_barrio_label, .css_barrio_id_barrio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_barrio_id_barrio_grid_line, .css_barrio_id_barrio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_barrio_id_sector_label, .css_barrio_id_sector_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_barrio_id_sector_grid_line, .css_barrio_id_sector_grid_line:hover {vertical-align: top;text-align: right;}
+.css_eps_id_eps_label, .css_eps_id_eps_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_eps_id_eps_grid_line, .css_eps_id_eps_grid_line:hover {vertical-align: top;text-align: right;}
+.css_procedimiento_id_barrio_label, .css_procedimiento_id_barrio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_procedimiento_id_barrio_grid_line, .css_procedimiento_id_barrio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_procedimiento_id_seguridad_social_label, .css_procedimiento_id_seguridad_social_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_procedimiento_id_seguridad_social_grid_line, .css_procedimiento_id_seguridad_social_grid_line:hover {vertical-align: top;text-align: right;}
+.css_procedimiento_id_eps_label, .css_procedimiento_id_eps_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_procedimiento_id_eps_grid_line, .css_procedimiento_id_eps_grid_line:hover {vertical-align: top;text-align: right;}
+.css_procedimiento_ip_label, .css_procedimiento_ip_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_procedimiento_ip_grid_line, .css_procedimiento_ip_grid_line:hover {vertical-align: top;text-align: left;}
+.css_sector_id_sector_label, .css_sector_id_sector_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_sector_id_sector_grid_line, .css_sector_id_sector_grid_line:hover {vertical-align: top;text-align: right;}
+.css_seguridad_id_seguridad_social_label, .css_seguridad_id_seguridad_social_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_seguridad_id_seguridad_social_grid_line, .css_seguridad_id_seguridad_social_grid_line:hover {vertical-align: top;text-align: right;}
+.css_medico_id_medico_label, .css_medico_id_medico_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_medico_id_medico_grid_line, .css_medico_id_medico_grid_line:hover {vertical-align: top;text-align: right;}
+.css_medico_registro_medico_label, .css_medico_registro_medico_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medico_registro_medico_grid_line, .css_medico_registro_medico_grid_line:hover {vertical-align: top;text-align: left;}
+.css_medico_telefono_label, .css_medico_telefono_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medico_telefono_grid_line, .css_medico_telefono_grid_line:hover {vertical-align: top;text-align: left;}
+.css_medico_estado_label, .css_medico_estado_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medico_estado_grid_line, .css_medico_estado_grid_line:hover {vertical-align: top;text-align: left;}
+.css_ambulancia_id_movil_label, .css_ambulancia_id_movil_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ambulancia_id_movil_grid_line, .css_ambulancia_id_movil_grid_line:hover {vertical-align: top;text-align: right;}

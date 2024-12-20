@@ -1,0 +1,15 @@
+<?php
+    $arr_data = [];
+    $arr_data['sc'] = "v9";
+    $arr_data['sc_version'] = "9.11.010";
+    $arr_data['sc_build'] = "6";
+    $arr_data['prod_version'] = "1.0.002";
+    $arr_data['prod_build'] = "7";
+    $arr_data['initial'] = "index.php";
+    $arr_data['group'] = "CRUE";
+    $arr_data['apl'] = "app3_grid_sec_users_groups";
+    $arr_data['description'] = "SECURITY MODULE :: Show users by groups";
+    $arr_data['status'] = "SIM";
+    $arr_data['type'] = "cons";
+    $arr_data['friendly_url'] = "app3_grid_sec_users_groups";
+    $arr_data['md5'] = "LigMd5";

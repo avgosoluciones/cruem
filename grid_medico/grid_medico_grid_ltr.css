@@ -1,0 +1,10 @@
+.css_id_medico_label, .css_id_medico_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_medico_grid_line, .css_id_medico_grid_line:hover {vertical-align: top;text-align: right;}
+.css_medico_label, .css_medico_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medico_grid_line, .css_medico_grid_line:hover {vertical-align: top;text-align: left;}
+.css_registro_medico_label, .css_registro_medico_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_registro_medico_grid_line, .css_registro_medico_grid_line:hover {vertical-align: top;text-align: left;}
+.css_telefono_label, .css_telefono_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefono_grid_line, .css_telefono_grid_line:hover {vertical-align: top;text-align: left;}
+.css_estado_label, .css_estado_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_estado_grid_line, .css_estado_grid_line:hover {vertical-align: top;text-align: left;}
